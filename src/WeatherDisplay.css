@@ -1,0 +1,14 @@
+.weather-display-container {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  max-width: 350px;
+}
+
+.weather-display-container .column {
+  text-align: center;
+}
+
+.right {
+  padding-top: 2rem;
+}
